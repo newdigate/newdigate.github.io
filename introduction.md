@@ -10,7 +10,9 @@ Paul and his team have pioneered the teensy microcontroller range of microcontro
 ### Arduino
 
 # Preface
-Arduino and teensy micro-controller communities are thriving. Arduino platform has many great libraries, reference designs and forums. 
+Arduino has opened up a portal into the universe of electronics for myself and millions of others - students, enthusiasts and professionals alike. Arduino and teensy micro-controller communities are thriving. Arduino platform has many great libraries, examples, reference designs, topics and forums. 
 
-Arduino has opened up a portal into the universe of electronics for myself and millions of students, enthusiasts and professionals alike. Before I started experimenting with Arduino, my practical knowledge about electronics was thin. Arduino provided a platform for me to learn - I find it very adictive - interfacing shields / sensors / displays / sound cards. There is always a "next step"... I have become an electronics enthusiast. By day job, Im a software developer, mainly writing c# distributed systems, and writing low level c and c++ code has helped me understand and appreciate mechanical sympathy (largely order-of-magnitude)  
+Before I started experimenting with arduino, my practical knowledge about electronics was thin. Arduino provided a platform for me to learn - which I find very adictive - interfacing shields / sensors / displays / sound cards. 
+
+As I am a musician, my approach is to build audio and midi devices.
 
