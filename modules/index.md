@@ -1,2 +1,2 @@
 # modules
-(lfo)[lfo]
+[lfo](lfo "lfo")
