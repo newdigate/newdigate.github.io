@@ -13,8 +13,8 @@ I started tinkering with teensy microcontroller boards for about 2 years ago. It
 This project is only possible because of the brilliant contribution of hard work by people in this community. 
 
 ## Respect and thanks
-### Paul Stofferegen and team
-Paul and his team have pioneered the teensy microcontroller range of microcontroller boards and lead the integration between arduino and cortex microcontrollers, and have contributed and facilited many amazing libraries for the arduino landscape
+### PJRC
+The PJRC team have pioneered the teensy microcontroller range of microcontroller boards and lead the integration between arduino and 32bit cortex microcontrollers, and have contributed and facilited many amazing libraries for the arduino landscape
 https://www.pjrc.com/store/teensy36.html
 
 ### Blackaddr
@@ -25,4 +25,8 @@ https://www.tindie.com/stores/Blackaddr/
 The arduino team have inspired a generation of electronics experts. 
 https://www.arduino.cc/
 
+### Sparkfun
+https://www.sparkfun.com/
 
+### Adafruit
+https://www.adafruit.com/
