@@ -6,7 +6,7 @@ Before I started experimenting with arduino, my practical knowledge about electr
 
 As I am a musician, my approach is to build audio and midi devices.
 ## Teensy
-I started tinkering with teensy microcontroller boards for about 2 years ago. It has been a great learning journey. I have found the teensy devices to be perfect for my needs. I love digital signal processing and analysis, digital displays, audio codecs. 
+I started tinkering with teensy microcontroller boards about 2 years ago. It has been a great learning journey. I have found the teensy devices to be perfect for my needs. I love digital signal processing and analysis, digital displays, audio codecs. 
 
 # Philosophy
 ## Ubuntu
