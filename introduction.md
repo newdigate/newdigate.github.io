@@ -11,7 +11,7 @@ I started tinkering with teensy microcontroller boards for about 2 years ago. It
 # Philosophy
 ## Ubuntu
 ### I am, because we are
-This project is only possible because of the brilliant contribution of hard work by people in this community. 
+This project is only possible because of the brilliant contribution of hard work made freely available by generous people in the ardiuno and teensy community. 
 
 ## Respect and thanks
 ### PJRC
