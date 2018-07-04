@@ -5,12 +5,14 @@ Before I started experimenting with arduino, my practical knowledge about electr
 
 As I am a musician, my approach is to build audio and midi devices.
 
-# Philosophy.
-## Ubuntu. 
-### I am, because we are. 
+I started tinkering with teensy microcontroller boards for about 2 years ago. It has been a great learning journey. I have found the teensy devices to be perfect for my needs. I love digital signal processing and analysis, digital displays, audio codecs. 
+
+# Philosophy
+## Ubuntu
+### I am, because we are
 This project is only possible because of the brilliant contribution of hard work by people in this community. 
 
-## Respect and thanks are due
+## Respect and thanks
 ### Paul Stofferegen and team
 Paul and his team have pioneered the teensy microcontroller range of microcontroller boards and lead the integration between arduino and cortex microcontrollers, and have contributed and facilited many amazing libraries for the arduino landscape
 https://www.pjrc.com/store/teensy36.html
