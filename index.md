@@ -6,3 +6,7 @@
 [modules](modules "modules")
 
 <img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/56B12441-D3E0-4292-92FB-427B2AC559BF.jpeg" width="500px"/>
+
+
+<img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/O0YhxdTOTvq%2Bo4O1xlkeXg.jpg" width="500px"/>
+
