@@ -8,6 +8,10 @@ My initial ambition was to use teensy as an audio processor. I was thinking of u
 
 The problem I had was that my teensy micro-controller projects were becoming multi-dimentional octopuses with too many jumper wires, jack-connectors, and rotary encoders to and from headers plugged into breadboards. Not sustainable in any terms, my approach to this factor was tedium ad neuseam, a delicate mesh of interconnected wires routed in such a way as to make space for the pots and stomp switch and teensy pcb. 
 
+<img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/IMG_4344.jpg" width="300px"/>
+<img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/IMG_4350.jpg" width="300px"/>
+<img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/IMG_4354.jpg" width="300px"/>
+
 [modules](modules "modules")
 
 <img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/56B12441-D3E0-4292-92FB-427B2AC559BF.jpeg" width="500px"/>
