@@ -18,7 +18,7 @@ I have adopted the eurorack form factor for convenience.
 
 # videos
 4 daisy chained lfos
- * https://youtu.be/F82L4924gZA
+ * [lfo video on youtube](https://youtu.be/F82L4924gZA)
 
 <img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/56B12441-D3E0-4292-92FB-427B2AC559BF.jpeg" width="500px"/>
 
