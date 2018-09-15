@@ -22,7 +22,7 @@ I have adopted the eurorack form factor for convenience.
 ## revision 2
 [ubuntu-v2](https://github.com/newdigate/teensy-eurorack/tree/master/hardware/ubuntu-v2.0 "ubuntu-v2")
 
-<img src="https://raw.githubusercontent.com/newdigate/teensy-eurorack/master/hardware/ubuntu-v2.0/panels/images/20hp-Ubuntu-instruments-number-two-2.png" height="400px"/>
+<img src="https://raw.githubusercontent.com/newdigate/teensy-eurorack/master/hardware/ubuntu-v2.0/panels/images/20hp-Ubuntu-instruments-number-two-2.png" height="500px"/>
 
 [modules](modules "modules")
 
