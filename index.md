@@ -2,13 +2,14 @@
 [introduction](introduction "intro")
 
 # The journey so far
-My initial ambition was to use teensy as an audio processor. I was thinking of using a guitar stomp-pedal form factor. 
+My initial ambition was to use teensy as a digital audio processor, mainly for guitar audio. I made lots of progress and really enjoyed working with the teensy microcontrollers. 
 
-The problem facing me was that my teensy micro-controller projects were becoming out-of-control, with too many jumper wires, jack-connectors, and rotary encoders to and from headers plugged into breadboards. This approach was tedium ad neuseam, a delicate mesh of inter-connected wires routed in such a way as to make space for the pots and stomp switch and teensy pcb. 
+The problem was that too many wires were quickly becoming out-of-control; wires to jack-connectors, rotary encoders and pin-headers became a delicate mesh of inter-connected wires routed tediusly.
 
 <img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/IMG_4344.jpg" height="150px"/> <img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/IMG_4350.jpg" height="150px"/> <img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/IMG_4354.jpg" height="150px"/> <img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/IMG_4437.jpg" height="150px"/>
 
 # Eurorack (form factor)
+Initially, I was thinking of using a guitar stomp-pedal form factor. 
 I have adopted the eurorack form factor for convenience. 
 
 # Ubuntu instrument
