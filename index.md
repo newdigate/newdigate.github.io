@@ -6,7 +6,7 @@ My ambition in 2016 was to use teensy 3.2 micro-controller board with a sound-ca
 
 <img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/IMG_4344.jpg" height="150px"/> <img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/IMG_4350.jpg" height="150px"/> <img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/IMG_4354.jpg" height="150px"/> <img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/IMG_4437.jpg" height="150px"/>
 
-# Eurorack (form factor)
+# form factor
 Initially, I was thinking of using a guitar stomp-pedal form factor; this didn't really work so well because there were too many wires to jack-connectors, rotary encoders and pin-headers.
 
 So I adopted the eurorack form factor for convenience. My friend Ray took me to a Eurorack modular exhibition in London. On the whole I was very much insprired by the modular movement but parts of which either annoy me or intruig me. 
