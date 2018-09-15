@@ -15,12 +15,12 @@ So I adopted the eurorack form factor for convenience. My friend Ray took me to 
 ## revision 1
 [ubuntu](https://github.com/newdigate/teensy-eurorack/tree/master/hardware/ubuntu "ubuntu")
 * panel 
-<img src="https://raw.githubusercontent.com/newdigate/teensy-eurorack/master/hardware/ubuntu/images/20hp-Ubuntu-instruments-number-one.PNG" width="300px"/>
+<img src="https://raw.githubusercontent.com/newdigate/teensy-eurorack/master/hardware/ubuntu/images/20hp-Ubuntu-instruments-number-one.PNG" width="150px"/>
 
 ## revision 2
 [ubuntu-v2](https://github.com/newdigate/teensy-eurorack/tree/master/hardware/ubuntu-v2.0 "ubuntu-v2")
 * panel
-<img src="https://raw.githubusercontent.com/newdigate/teensy-eurorack/master/hardware/ubuntu-v2.0/panels/images/20hp-Ubuntu-instruments-number-two-2.png" width="300px"/>
+<img src="https://raw.githubusercontent.com/newdigate/teensy-eurorack/master/hardware/ubuntu-v2.0/panels/images/20hp-Ubuntu-instruments-number-two-2.png" width="150px"/>
 
 [modules](modules "modules")
 
