@@ -12,26 +12,27 @@ Initially, I was thinking of using a guitar stomp-pedal form factor; this didn't
 So I adopted the eurorack form factor for convenience. My friend Ray took me to a Eurorack modular exhibition in London. On the whole I was very much insprired by the modular movement but parts of which either annoy me or intruig me. 
 
 # Ubuntu instrument
-
+## panels
 <table>
   
   <tr>
-    <td>
-      revision 1
+    <td colspan=2>
+      Ubuntu instrument
     </td>
     
-<td>
-      revision 2
-    </td>   
   </tr>
   
   <tr>
     <td>
-      https://github.com/newdigate/teensy-eurorack/tree/master/hardware/ubuntu
+      <a href="https://github.com/newdigate/teensy-eurorack/tree/master/hardware/ubuntu">
+      panel v1
+      </a>
     </td>
     
 <td>
-    https://github.com/newdigate/teensy-eurorack/tree/master/hardware/ubuntu-v2.0
+    <a href="https://github.com/newdigate/teensy-eurorack/tree/master/hardware/ubuntu-v2.0">
+      panel v2
+  </a>
     </td>   
   </tr>
 
