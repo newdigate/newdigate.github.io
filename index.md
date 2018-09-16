@@ -13,15 +13,7 @@ So I adopted the eurorack form factor for convenience. My friend Ray took me to 
 
 # Ubuntu instrument
 ## panels
-<table>
-  
-  <tr>
-    <td colspan="2">
-      Ubuntu instrument
-    </td>
-    
-  </tr>
-  
+<table> 
   <tr>
     <td>
       <a href="https://github.com/newdigate/teensy-eurorack/tree/master/hardware/ubuntu">
