@@ -2,7 +2,7 @@
 [introduction & acknowledgements](introduction "intro")
 
 # The journey so far
-My ambition in 2016 was to use teensy 3.2 micro-controller board with a sound-card as a digital audio processor, mainly for guitar audio. It was not long before I started facing challenges and learning curves; During this time I have really enjoyed and appreciated the arduino and teensy micro-controllers communities;
+My ambition in 2016 was to use teensy 3.2 micro-controller board with a sound-card and a small display as a digital audio processor, mainly for guitar audio. I made alot of progress very quickly, but it was not long before I started facing challenges; My intention is to document these challenges and provide a place to collect my notes. I have learned alot from arduino, teensy, spark-fun, adafruit, euro-rack DIY communities; All of these projects are possible only becuase of the hard work these communities and individuals, and so I feel it only fair  to share these projects.
 
 <img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/IMG_4344.jpg" height="150px"/> <img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/IMG_4350.jpg" height="150px"/> <img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/IMG_4354.jpg" height="150px"/> <img src="https://github.com/newdigate/newdigate.github.io/raw/master/images/photos/IMG_4437.jpg" height="150px"/>
 
