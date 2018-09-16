@@ -16,7 +16,7 @@ So I adopted the eurorack form factor for convenience. My friend Ray took me to 
 <table>
   
   <tr>
-    <td colspan=2>
+    <td colspan="2">
       Ubuntu instrument
     </td>
     
